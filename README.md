@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Mann 👋
 
 <!--
 **Mann-Nariya/Mann-Nariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Sophomore at Indraprastha Institute of Information Technology, Delhi, pursuing B.Tech in CSE.
+- Interested in Data Science, Machine Learning, and Full Stack development and would also like to explore the field of Security.
+- I am currently learning Data Science concept's for Machine Leaning applications along with Java Developement.
+
+  
+
