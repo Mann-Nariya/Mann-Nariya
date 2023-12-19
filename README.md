@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Sophomore at Indraprastha Institute of Information Technology, Delhi, pursuing B.Tech in CSE.
 - Interested in Data Science, Machine Learning, and Full Stack development and would also like to explore the field of Security.
-- I am currently learning Data Science concept's for Machine Leaning applications along with Java Developement.
+- I am currently learning concepts of Data Science and Machine Leaning applications. || DSA in C++
 
   
 
